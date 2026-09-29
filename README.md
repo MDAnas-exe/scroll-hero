@@ -2,7 +2,7 @@
 
 A high-performance, responsive, scroll-driven hero section inspired by automotive engineering. Built with **Next.js (App Router)**, **Tailwind CSS**, and **GSAP ScrollTrigger** (`useGSAP`).
 
-**Live:** `<URL>`
+**Live:** `https://mdanas-exe.github.io/scroll-hero/`
 
 ---
 
